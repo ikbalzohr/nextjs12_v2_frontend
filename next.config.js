@@ -4,8 +4,6 @@ const nextConfig = {
   env: {
     // MONGO_URI: "http://localhost:4000/v1/users/list",
     // MONGO_IMG: "http://localhost:4000/",
-    MONGO_URI: "https://backend-nodejs-v2.herokuapp.com/v1/users/list",
-    MONGO_IMG: "https://backend-nodejs-v2.herokuapp.com/",
   },
 };
 
